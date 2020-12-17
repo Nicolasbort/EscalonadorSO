@@ -1,0 +1,1 @@
+g++ main.cpp escalonador.cpp processo.cpp functions.cpp consoleCtrl.cpp -o main -lpthread
